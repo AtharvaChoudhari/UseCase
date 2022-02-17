@@ -5,7 +5,7 @@ import static org.apache.spark.sql.functions.*;
 import java.util.logging.Logger;
 
 /**
- * Hello world!
+ * Hello
  *
  */
 
